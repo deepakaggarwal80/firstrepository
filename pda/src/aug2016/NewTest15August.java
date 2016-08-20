@@ -7,6 +7,7 @@ public class NewTest15August {
   public void f() {
 	  System.out.println("My Name is Deepak");
 	  System.out.println("My Name is Deepak");
+	  System.out.println("My Name is Deepak");
 	  
   }
 }
